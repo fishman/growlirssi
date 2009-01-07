@@ -1,5 +1,6 @@
 // =======================
 // = Growl irssi module  =
+// = Reza Jelveh         =
 // =======================
 #include <Carbon/Carbon.h>
 
